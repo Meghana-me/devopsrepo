@@ -1,1 +1,2 @@
 this is my fileA
+Updated fileA
