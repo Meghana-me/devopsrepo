@@ -1,2 +1,3 @@
 this is my fileA
 Updated fileA
+added new line from Dev branch
