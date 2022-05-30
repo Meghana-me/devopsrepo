@@ -1,3 +1,4 @@
 this is my fileA
 Updated fileA
-added new line from Dev branch
+added new line from Dev branch, edited same line from feature/DevA branch
+
